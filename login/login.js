@@ -1,12 +1,11 @@
 // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyAZlzMIHjjXS97KS8kj5KYH4nKi5w8gVzs",
-    authDomain: "community-chat-72962.firebaseapp.com",
-    databaseURL: "https://community-chat-72962-default-rtdb.firebaseio.com",
-    projectId: "community-chat-72962",
-    storageBucket: "community-chat-72962.appspot.com",
-    messagingSenderId: "173069210131",
-    appId: "1:173069210131:web:1efbb1daf50024c4ef25e6"
+    apiKey: "AIzaSyC-qMbLn8NpEVZD-ZYf9aW6Aa3p3thMY9w",
+    authDomain: "login-form-41477.firebaseapp.com",
+    projectId: "login-form-41477",
+    storageBucket: "login-form-41477.appspot.com",
+    messagingSenderId: "260585260840",
+    appId: "1:260585260840:web:44eba2bf97f4a57ba9b21d"
   };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
